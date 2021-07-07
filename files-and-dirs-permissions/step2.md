@@ -25,6 +25,8 @@ Create the given structure
 
 `mkdir dir2`{{execute}}
 
+`cd dir2`{{execute}}
+
 `touch file1.txt`{{execute}}
 
 `touch file2.txt`{{execute}}
