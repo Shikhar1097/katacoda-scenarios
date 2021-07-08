@@ -1,7 +1,5 @@
 # Logical Operators
 
-Starting Python shell: `python`{{execute}}
-
 1. Check whether 1 is greater than 2.
 
 `1 > 2`{{execute}}
