@@ -1,5 +1,7 @@
 # Arithmetic Operators
 
+Starting Python shell: `python`{{execute}}
+
 1. Assign a value 13 to a variable **test_var1**.
 
 `test_var1 = 13`{{execute}}
