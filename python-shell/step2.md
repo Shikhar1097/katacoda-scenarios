@@ -6,8 +6,8 @@
 
 2. Check whether Java is less than Python
 
-`Java < Python`{{execute}}
+`"Java" < "Python"`{{execute}}
 
 3. Check whether Python is equal to Javascript
 
-`Python == Javascript`{{execute}}
+`"Python" == "Javascript"`{{execute}}
