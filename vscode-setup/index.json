@@ -21,6 +21,9 @@
       "text": "finish.md"
     }
   },
+  "environment": {
+    "uilayout": "terminal"
+  },
   "backend": {
     "imageid": "vscode"
   }
