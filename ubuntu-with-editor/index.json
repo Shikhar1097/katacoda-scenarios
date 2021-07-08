@@ -1,12 +1,12 @@
 {
-  "title": "Ubuntu With Desktop",
-  "description": "A scenario to test the functioning of ubuntu with desktop",
+  "title": "Ubuntu With Terminal and Editor",
+  "description": "A scenario to test the functioning of ubuntu with editor",
   "difficulty": "Beginner",
   "time": "10",
   "details": {
     "steps": [
       {
-        "title": "Test terminal with desktop",
+        "title": "Test terminal with Editor",
         "text": "step1.md"
       }
     ],
