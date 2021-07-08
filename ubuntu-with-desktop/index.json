@@ -1,0 +1,24 @@
+{
+  "title": "Ubuntu With Desktop",
+  "description": "A scenario to test the functioning of ubuntu with desktop",
+  "difficulty": "Beginner",
+  "time": "10",
+  "details": {
+    "steps": [
+      {
+        "title": "Test terminal with desktop",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {},
+  "backend": {
+    "imageid": "ubuntu:2004"
+  }
+}
