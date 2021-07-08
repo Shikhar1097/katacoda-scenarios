@@ -1,0 +1,46 @@
+{
+  "title": "Python Shell",
+  "description": "A scenario to understand python shell.",
+  "difficulty": "Beginner",
+  "time": "10",
+  "details": {
+    "steps": [
+      {
+        "title": "Arithmetic Operators",
+        "text": "step1.md"
+      },
+      {
+        "title": "Logical Operators",
+        "text": "step2.md"
+      },
+      {
+        "title": "Conditional Statements",
+        "text": "step3.md"
+      },
+      {
+        "title": "Loops",
+        "text": "step4.md"
+      },
+      {
+        "title": "Ternary Operator",
+        "text": "step5.md"
+      },
+      {
+        "title": "Import statement",
+        "text": "step6.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "python:3.8"
+  }
+}
